@@ -1,0 +1,700 @@
+date_received,product,sub_product,issue,channel,company_response,timely_response,consumer_disputed,complaint_id,client_id
+7/3/2014,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR0922485,C00003989
+4/12/2012,Bank account or service,Savings account,"Account opening, closing, or management",Phone Support,Closed with relief,Yes,No,CR0057298,C00006567
+4/3/2012,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed without relief,Yes,No,CR0043811,C00001369
+3/14/2012,Credit card,,Billing disputes,Mobile App,Closed with relief,Yes,No,CR0035411,C00006474
+3/5/2012,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with relief,Yes,No,CR0030939,C00003721
+3/5/2012,Bank account or service,Checking account,Problems caused by my funds being low,Email,Closed with relief,Yes,No,CR0030070,C00004542
+2/23/2012,Credit card,,Other fee,Branch,Closed without relief,Yes,No,CR0013328,C00000945
+12/7/2011,Credit card,,Collection debt dispute,Phone Support,Closed without relief,Yes,No,CR0003732,C00003641
+3/27/2017,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,,CR2405000,C00009715
+3/21/2017,Credit card,,Other,Phone Support,Closed with non-monetary relief,Yes,,CR2398334,C00003672
+3/20/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,In progress,Yes,,CR2395319,C00001539
+3/7/2017,Bank account or service,Other bank product/service,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,,CR2375209,C00001947
+3/3/2017,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with monetary relief,Yes,,CR2371479,C00004029
+3/2/2017,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with explanation,Yes,,CR2368953,C00004796
+2/21/2017,Bank account or service,Savings account,Deposits and withdrawals,Phone Support,Closed with monetary relief,Yes,,CR2353277,C00003142
+2/16/2017,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with explanation,Yes,,CR2347888,C00000778
+2/3/2017,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,Branch,Closed with explanation,Yes,,CR2327253,C00001896
+1/31/2017,Credit card,,Other,Branch,Closed with explanation,Yes,,CR2319065,C00003455
+1/30/2017,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,,CR2318000,C00003971
+1/9/2017,Credit card,,Other,Branch,Closed with explanation,Yes,Yes,CR2281296,C00000265
+12/19/2016,Credit card,,Credit line increase/decrease,Mobile App,Closed with explanation,Yes,Yes,CR2254957,C00000744
+12/8/2016,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR2241469,C00001355
+12/8/2016,Credit card,,Billing disputes,Branch,Closed with explanation,Yes,Yes,CR2241293,C00001512
+12/7/2016,Bank account or service,Checking account,"Making/receiving payments, sending money",Mobile App,Closed with monetary relief,Yes,No,CR2239563,C00002929
+12/1/2016,Credit card,,Late fee,Branch,Closed with monetary relief,Yes,No,CR2230679,C00009366
+11/28/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR2225814,C00001054
+11/17/2016,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with monetary relief,Yes,No,CR2214250,C00004192
+11/16/2016,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR2208613,C00001054
+11/8/2016,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2200226,C00003088
+11/4/2016,Credit card,,Sale of account,Mobile App,Closed with explanation,Yes,No,CR2195804,C00005201
+11/2/2016,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with monetary relief,Yes,No,CR2192368,C00000565
+11/2/2016,Credit card,,Identity theft / Fraud / Embezzlement,Email,Closed with monetary relief,Yes,No,CR2190357,C00000065
+10/28/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with non-monetary relief,Yes,No,CR2184843,C00001170
+10/6/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR2150336,C00003931
+10/5/2016,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2147799,C00004668
+10/4/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,Yes,CR2146555,C00004383
+9/30/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Email,Closed with monetary relief,Yes,No,CR2140531,C00003151
+9/26/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with monetary relief,Yes,No,CR2132541,C00002610
+9/23/2016,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR2128698,C00007855
+9/22/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2125933,C00002350
+9/12/2016,Credit card,,Balance transfer fee,Mobile App,Closed with non-monetary relief,Yes,No,CR2106749,C00005736
+8/31/2016,Credit card,,Billing disputes,Branch,Closed with explanation,Yes,No,CR2089516,C00002452
+8/26/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR2083797,C00001941
+8/25/2016,Bank account or service,Savings account,Deposits and withdrawals,Email,Closed with explanation,Yes,Yes,CR2081319,C00003961
+8/22/2016,Credit card,,Billing disputes,Branch,Closed with explanation,Yes,No,CR2075840,C00000768
+8/9/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with monetary relief,Yes,Yes,CR2053856,C00002072
+8/4/2016,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Email,Closed with explanation,Yes,No,CR2047406,C00007241
+7/28/2016,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR2036377,C00001506
+7/19/2016,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with monetary relief,Yes,No,CR2019528,C00007311
+7/18/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR2017443,C00003253
+7/15/2016,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR2015196,C00004944
+7/1/2016,Credit card,,Billing disputes,Email,Closed with explanation,Yes,No,CR1994567,C00004187
+6/2/2016,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR1952426,C00002679
+5/26/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1943347,C00000930
+5/25/2016,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with explanation,Yes,No,CR1942158,C00002427
+5/25/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1941865,C00000145
+5/24/2016,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with explanation,Yes,Yes,CR1938865,C00003583
+5/23/2016,Bank account or service,Checking account,Problems caused by my funds being low,Mobile App,Closed with explanation,Yes,Yes,CR1936930,C00000001
+5/19/2016,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR1932270,C00002938
+5/13/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1924106,C00000078
+5/6/2016,Credit card,,Customer service / Customer relations,Phone Support,Closed with monetary relief,Yes,No,CR1913916,C00001570
+5/6/2016,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with non-monetary relief,Yes,No,CR1912930,C00000535
+5/2/2016,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1905472,C00003751
+4/25/2016,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with explanation,Yes,No,CR1894861,C00000718
+4/19/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Email,Closed with monetary relief,Yes,Yes,CR1885950,C00005016
+4/18/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,Yes,CR1884968,C00010828
+4/15/2016,Bank account or service,Other bank product/service,Problems caused by my funds being low,Phone Support,Closed with monetary relief,Yes,No,CR1881766,C00002998
+4/15/2016,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with monetary relief,Yes,No,CR1882476,C00012643
+4/7/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR1869568,C00000702
+4/4/2016,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with explanation,Yes,No,CR1863969,C00012344
+3/23/2016,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR1845683,C00003081
+3/10/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR1826636,C00001012
+3/8/2016,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1822084,C00013151
+2/29/2016,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,No,CR1809285,C00003759
+2/17/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,Yes,CR1791074,C00001602
+2/16/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,Yes,CR1789593,C00002663
+2/11/2016,Credit card,,Other,Mobile App,Closed with explanation,Yes,No,CR1784697,C00001821
+2/5/2016,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with non-monetary relief,Yes,No,CR1775172,C00000319
+2/4/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1773179,C00005050
+2/4/2016,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR1773807,C00000141
+1/29/2016,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR1764286,C00001361
+1/28/2016,Credit card,,Other,Phone Support,Closed with explanation,Yes,Yes,CR1762648,C00001586
+1/25/2016,Credit card,,Billing disputes,Mobile App,Closed with explanation,Yes,,CR1756498,C00002932
+1/25/2016,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with explanation,Yes,Yes,CR1756563,C00004773
+1/15/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with monetary relief,Yes,No,CR1744554,C00001068
+1/8/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Mobile App,Closed with monetary relief,Yes,No,CR1734737,C00002020
+1/6/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1729929,C00010746
+1/4/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,Yes,CR1725606,C00003498
+12/22/2015,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Branch,Closed with explanation,Yes,No,CR1713275,C00004278
+12/18/2015,Bank account or service,Other bank product/service,Problems caused by my funds being low,Phone Support,Closed with monetary relief,Yes,No,CR1708290,C00003387
+11/30/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,Yes,CR1676436,C00003354
+11/18/2015,Credit card,,Other,Phone Support,Closed with explanation,Yes,No,CR1660760,C00001713
+11/9/2015,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with monetary relief,Yes,No,CR1645849,C00000526
+11/9/2015,Bank account or service,Other bank product/service,Problems caused by my funds being low,Phone Support,Closed with explanation,Yes,No,CR1645852,C00001953
+10/29/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR1631076,C00004202
+10/23/2015,Credit card,,Other,Phone Support,Closed with explanation,Yes,Yes,CR1621364,C00003759
+10/23/2015,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed,Yes,Yes,CR1621318,C00003066
+10/5/2015,Credit card,,Billing disputes,Mobile App,Closed with monetary relief,Yes,Yes,CR1592064,C00004355
+10/2/2015,Bank account or service,Checking account,Problems caused by my funds being low,Email,Closed with explanation,Yes,No,CR1590438,C00004016
+9/21/2015,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Email,Closed with non-monetary relief,Yes,No,CR1573466,C00002364
+9/16/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Mobile App,Closed with monetary relief,Yes,No,CR1566591,C00004596
+9/14/2015,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,No,CR1563107,C00004585
+8/31/2015,Credit card,,Advertising and marketing,Branch,Closed with explanation,Yes,No,CR1544742,C00003819
+8/31/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR1544229,C00001888
+8/21/2015,Credit card,,Billing disputes,Branch,Closed with explanation,Yes,Yes,CR1531152,C00002512
+8/20/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR1527767,C00003250
+8/5/2015,Credit card,,Identity theft / Fraud / Embezzlement,Email,Closed with explanation,Yes,Yes,CR1507211,C00000566
+8/3/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Email,Closed with non-monetary relief,Yes,No,CR1498821,C00003514
+7/30/2015,Bank account or service,Cashing a check without an account,Problems caused by my funds being low,Phone Support,Closed with explanation,Yes,No,CR1494677,C00002117
+7/24/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR1485802,C00001305
+7/23/2015,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR1483597,C00003805
+7/20/2015,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR1474895,C00003028
+7/14/2015,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR1467137,C00006272
+7/9/2015,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with monetary relief,Yes,No,CR1459299,C00003881
+7/7/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with non-monetary relief,Yes,No,CR1455861,C00012750
+7/7/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with non-monetary relief,Yes,No,CR1455862,C00003944
+7/6/2015,Credit card,,Transaction issue,Mobile App,Closed with explanation,Yes,No,CR1452043,C00004163
+7/6/2015,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR1451644,C00002069
+7/6/2015,Credit card,,Billing disputes,Mobile App,Closed with non-monetary relief,Yes,Yes,CR1452819,C00003025
+6/24/2015,Credit card,,Identity theft / Fraud / Embezzlement,Email,Closed with explanation,Yes,No,CR1435238,C00000767
+6/23/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR1433236,C00003575
+6/23/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1434177,C00002213
+6/12/2015,Credit card,,Credit line increase/decrease,Branch,Closed with non-monetary relief,Yes,No,CR1419608,C00000940
+6/9/2015,Credit card,,Late fee,Branch,Closed with explanation,Yes,No,CR1412354,C00002155
+5/20/2015,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with explanation,Yes,No,CR1384883,C00000734
+5/18/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1381322,C00000246
+5/4/2015,Bank account or service,Other bank product/service,Using a debit or ATM card,Email,Closed with explanation,Yes,No,CR1359157,C00001675
+5/1/2015,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR1357213,C00000168
+4/29/2015,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR1351891,C00003146
+4/23/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with monetary relief,Yes,No,CR1344050,C00002046
+4/21/2015,Credit card,,Billing statement,Mobile App,Closed with explanation,Yes,No,CR1338985,C00004426
+4/21/2015,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR1340503,C00003231
+4/16/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with non-monetary relief,Yes,No,CR1334090,C00003951
+4/9/2015,Bank account or service,Checking account,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,No,CR1323862,C00003457
+3/27/2015,Bank account or service,Other bank product/service,Using a debit or ATM card,Mobile App,Closed with explanation,Yes,Yes,CR1305593,C00001874
+3/26/2015,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,Yes,CR1301819,C00002436
+3/13/2015,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with monetary relief,Yes,No,CR1282520,C00002493
+3/10/2015,Credit card,,Billing disputes,Branch,Closed with explanation,Yes,No,CR1275516,C00003024
+2/20/2015,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with explanation,Yes,No,CR1249514,C00002109
+1/14/2015,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with monetary relief,Yes,No,CR1193863,C00003173
+1/8/2015,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,Yes,CR1185692,C00000470
+1/6/2015,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,Yes,CR1182664,C00003146
+1/6/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR1182076,C00004959
+12/23/2014,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR1167964,C00000144
+12/22/2014,Credit card,,Billing disputes,Mobile App,Closed with explanation,Yes,Yes,CR1165956,C00003710
+12/17/2014,Bank account or service,Checking account,Using a debit or ATM card,Branch,Closed with explanation,Yes,Yes,CR1159924,C00000603
+12/8/2014,Credit card,,Other,Email,Closed with explanation,Yes,No,CR1148113,C00001784
+12/4/2014,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR1142808,C00001375
+12/3/2014,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR1141314,C00000144
+11/10/2014,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1109288,C00004310
+11/4/2014,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR1101885,C00002315
+10/21/2014,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with non-monetary relief,Yes,No,CR1080256,C00004302
+10/7/2014,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Branch,Closed with explanation,Yes,No,CR1062228,C00011875
+10/6/2014,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,Yes,CR1059300,C00003908
+10/1/2014,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with monetary relief,Yes,No,CR1052629,C00000175
+9/30/2014,Credit card,,Rewards,Phone Support,Closed with explanation,Yes,Yes,CR1051007,C00012561
+9/30/2014,Credit card,,Other,Phone Support,Closed with explanation,Yes,No,CR1052075,C00003310
+9/29/2014,Credit card,,Arbitration,Phone Support,Closed with explanation,Yes,Yes,CR1048746,C00005163
+9/24/2014,Credit card,,Closing/Cancelling account,Email,Closed with explanation,Yes,No,CR1043298,C00001820
+9/24/2014,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,No,CR1042825,C00003452
+9/19/2014,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,Yes,CR1037284,C00002767
+9/9/2014,Bank account or service,Savings account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,Yes,CR1020704,C00004618
+9/5/2014,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1016584,C00000076
+9/4/2014,Credit card,,Other,Phone Support,Closed with monetary relief,Yes,No,CR1015058,C00004576
+8/29/2014,Bank account or service,Checking account,Problems caused by my funds being low,Branch,Closed with monetary relief,Yes,No,CR1007303,C00000424
+8/22/2014,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,Yes,CR0997116,C00003962
+8/19/2014,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR0991303,C00009641
+8/18/2014,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with monetary relief,Yes,No,CR0988096,C00003347
+8/13/2014,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR0981611,C00004227
+7/24/2014,Credit card,,Closing/Cancelling account,Branch,Closed with explanation,Yes,No,CR0951400,C00003759
+7/23/2014,Credit card,,Customer service / Customer relations,Mobile App,Closed with explanation,Yes,No,CR0949403,C00000348
+7/21/2014,Bank account or service,Checking account,"Making/receiving payments, sending money",Branch,Closed with monetary relief,Yes,No,CR0947307,C00007586
+7/17/2014,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR0942501,C00000067
+7/8/2014,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR0927871,C00003970
+7/3/2014,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,Yes,CR0922473,C00001875
+6/10/2014,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR0888321,C00000988
+6/10/2014,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR0887544,C00003494
+5/28/2014,Credit card,,Closing/Cancelling account,Phone Support,Closed with explanation,Yes,Yes,CR0871335,C00013480
+5/27/2014,Credit card,,Billing disputes,Mobile App,Closed with explanation,Yes,Yes,CR0869660,C00000985
+5/22/2014,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR0865818,C00004217
+5/19/2014,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,Yes,CR0858349,C00003164
+5/16/2014,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with monetary relief,Yes,No,CR0855237,C00004311
+5/14/2014,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with monetary relief,Yes,No,CR0853368,C00003777
+5/7/2014,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR0842671,C00003929
+5/5/2014,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with monetary relief,Yes,No,CR0838199,C00001654
+4/24/2014,Credit card,,Delinquent account,Branch,Closed with explanation,Yes,No,CR0824833,C00003199
+4/11/2014,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,Yes,CR0804364,C00003340
+4/9/2014,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR0800215,C00001443
+4/5/2014,Bank account or service,Checking account,Using a debit or ATM card,Email,Closed with explanation,Yes,Yes,CR0795200,C00001772
+4/4/2014,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR0793529,C00002031
+4/2/2014,Bank account or service,Savings account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR0789608,C00000162
+3/31/2014,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with non-monetary relief,Yes,No,CR0785224,C00002583
+3/28/2014,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR0783255,C00003516
+3/6/2014,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with monetary relief,Yes,No,CR0746087,C00010145
+3/3/2014,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with monetary relief,Yes,No,CR0739756,C00000004
+2/21/2014,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,Yes,CR0725940,C00001704
+2/18/2014,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,Yes,CR0718616,C00004143
+2/11/2014,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR0707883,C00002904
+2/10/2014,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,Yes,CR0705878,C00000305
+2/5/2014,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with non-monetary relief,Yes,Yes,CR0702038,C00003308
+1/29/2014,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR0689939,C00003582
+1/28/2014,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR0688050,C00007800
+1/23/2014,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR0682046,C00004654
+1/8/2014,Credit card,,Cash advance,Branch,Closed with explanation,Yes,No,CR0659192,C00001845
+12/24/2013,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,Yes,CR0644906,C00000075
+12/24/2013,Bank account or service,Checking account,"Making/receiving payments, sending money",Phone Support,Closed with explanation,Yes,No,CR0644531,C00001206
+11/19/2013,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,Yes,CR0603229,C00003622
+11/6/2013,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR0587861,C00004457
+10/28/2013,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with explanation,Yes,Yes,CR0574864,C00003558
+10/23/2013,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,Yes,CR0567779,C00011768
+10/17/2013,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR0561186,C00000738
+10/15/2013,Credit card,,Balance transfer,Phone Support,Closed with explanation,Yes,No,CR0559272,C00004673
+9/30/2013,Credit card,,Application processing delay,Email,Closed with explanation,Yes,No,CR0547876,C00008667
+9/29/2013,Bank account or service,Savings account,Problems caused by my funds being low,Mobile App,Closed with monetary relief,Yes,Yes,CR0547152,C00003563
+9/12/2013,Bank account or service,Checking account,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,No,CR0524922,C00010040
+9/7/2013,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR0517670,C00001782
+9/3/2013,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR0512719,C00003135
+8/29/2013,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR0508374,C00001629
+8/24/2013,Bank account or service,Checking account,Using a debit or ATM card,Mobile App,Closed with monetary relief,Yes,No,CR0503464,C00012358
+8/22/2013,Bank account or service,Savings account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,Yes,CR0499187,C00010828
+8/22/2013,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR0499118,C00002779
+8/22/2013,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR0500647,C00004539
+8/15/2013,Bank account or service,Checking account,Problems caused by my funds being low,Mobile App,Closed with explanation,Yes,Yes,CR0490204,C00001392
+8/12/2013,Bank account or service,Checking account,Problems caused by my funds being low,Email,Closed with explanation,Yes,No,CR0487225,C00004708
+7/23/2013,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR0480773,C00002323
+7/11/2013,Credit card,,Credit line increase/decrease,Phone Support,Closed with monetary relief,Yes,No,CR0454551,C00000731
+7/11/2013,Bank account or service,Checking account,Using a debit or ATM card,Phone Support,Closed with monetary relief,Yes,No,CR0479451,C00004084
+7/11/2013,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR0480573,C00001444
+7/1/2013,Bank account or service,Checking account,Using a debit or ATM card,Mobile App,Closed with monetary relief,Yes,Yes,CR0447457,C00001672
+6/24/2013,Credit card,,Transaction issue,Mobile App,Closed with explanation,Yes,Yes,CR0440370,C00002289
+6/24/2013,Credit card,,Delinquent account,Mobile App,Closed with explanation,Yes,No,CR0440277,C00001712
+6/20/2013,Credit card,,APR or interest rate,Mobile App,Closed with monetary relief,Yes,No,CR0437926,C00003856
+6/17/2013,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR0434587,C00004267
+6/10/2013,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with monetary relief,Yes,No,CR0428430,C00002344
+6/7/2013,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR0426655,C00004551
+5/31/2013,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,Yes,CR0420867,C00000474
+5/29/2013,Credit card,,Rewards,Email,Closed with explanation,Yes,Yes,CR0418611,C00000019
+5/28/2013,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Email,Closed with monetary relief,Yes,No,CR0418479,C00003544
+5/17/2013,Bank account or service,Checking account,"Making/receiving payments, sending money",Mobile App,Closed with monetary relief,Yes,No,CR0411108,C00000008
+5/10/2013,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with monetary relief,Yes,No,CR0404275,C00012416
+5/10/2013,Bank account or service,Checking account,Using a debit or ATM card,Phone Support,Closed with explanation,Yes,Yes,CR0404310,C00002997
+4/29/2013,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Email,Closed with non-monetary relief,Yes,Yes,CR0394315,C00003939
+4/3/2013,Credit card,,Billing disputes,Branch,Closed with explanation,Yes,Yes,CR0373513,C00003320
+4/1/2013,Credit card,,Credit reporting,Phone Support,Closed with explanation,Yes,No,CR0371074,C00004309
+3/29/2013,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR0369207,C00002264
+3/27/2013,Credit card,,Late fee,Mobile App,Closed with explanation,Yes,No,CR0367356,C00000339
+3/21/2013,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,Yes,CR0361734,C00003159
+3/21/2013,Bank account or service,(CD) Certificate of deposit,"Making/receiving payments, sending money",Phone Support,Closed with explanation,Yes,Yes,CR0362356,C00001719
+3/8/2013,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,Yes,CR0347128,C00004072
+3/1/2013,Credit card,,Closing/Cancelling account,Mobile App,Closed with explanation,Yes,No,CR0338719,C00003684
+2/28/2013,Credit card,,Credit line increase/decrease,Email,Closed with explanation,Yes,No,CR0338363,C00000014
+2/22/2013,Bank account or service,Checking account,"Making/receiving payments, sending money",Phone Support,Closed with explanation,Yes,No,CR0327012,C00002588
+2/22/2013,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with monetary relief,Yes,No,CR0327025,C00000451
+2/20/2013,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR0322720,C00004230
+2/14/2013,Credit card,,Credit reporting,Mobile App,Closed with explanation,Yes,No,CR0315956,C00004275
+2/11/2013,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR0314152,C00002872
+2/8/2013,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with explanation,Yes,Yes,CR0313086,C00002454
+2/7/2013,Bank account or service,Checking account,"Making/receiving payments, sending money",Email,Closed with explanation,Yes,No,CR0310506,C00001996
+2/4/2013,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR0294434,C00002563
+2/2/2013,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Branch,Closed with explanation,Yes,No,CR0285804,C00000653
+2/1/2013,Credit card,,Credit reporting,Email,Closed with explanation,Yes,Yes,CR0283220,C00004321
+1/28/2013,Bank account or service,Savings account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR0277914,C00002550
+1/24/2013,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,Yes,CR0258067,C00000629
+1/24/2013,Bank account or service,Checking account,Problems caused by my funds being low,Branch,Closed with monetary relief,Yes,No,CR0256410,C00000775
+1/23/2013,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with monetary relief,Yes,No,CR0255281,C00000606
+1/23/2013,Bank account or service,Other bank product/service,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,No,CR0257240,C00004930
+1/17/2013,Credit card,,Credit reporting,Branch,Closed with explanation,Yes,No,CR0245763,C00003085
+1/14/2013,Bank account or service,Other bank product/service,Using a debit or ATM card,Mobile App,Closed with explanation,Yes,No,CR0230239,C00000080
+1/12/2013,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with monetary relief,Yes,No,CR0229354,C00010662
+1/12/2013,Bank account or service,Checking account,Problems caused by my funds being low,Mobile App,Closed with explanation,Yes,Yes,CR0229326,C00008276
+1/7/2013,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with monetary relief,Yes,No,CR0223678,C00000540
+1/4/2013,Bank account or service,Checking account,Problems caused by my funds being low,Branch,Closed with explanation,Yes,Yes,CR0221502,C00002118
+1/4/2013,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with monetary relief,Yes,No,CR0222601,C00001406
+12/31/2012,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with explanation,No,,CR0220184,C00004468
+12/20/2012,Bank account or service,Savings account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR0214774,C00003078
+12/18/2012,Credit card,,Billing disputes,Branch,Closed with explanation,Yes,No,CR0212889,C00002587
+12/13/2012,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR0209127,C00002542
+12/10/2012,Credit card,,Credit reporting,Email,Closed with non-monetary relief,Yes,No,CR0206371,C00002373
+11/29/2012,Credit card,,Billing disputes,Mobile App,Closed with non-monetary relief,Yes,No,CR0201107,C00002178
+11/26/2012,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR0197192,C00004088
+11/20/2012,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with explanation,Yes,Yes,CR0194736,C00001495
+11/13/2012,Credit card,,Balance transfer,Email,Closed with explanation,Yes,Yes,CR0189436,C00000642
+11/6/2012,Credit card,,Closing/Cancelling account,Branch,Closed with explanation,Yes,No,CR0185270,C00003225
+10/31/2012,Credit card,,Credit reporting,Mobile App,Closed with explanation,Yes,No,CR0182259,C00003970
+10/15/2012,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR0170715,C00004462
+9/28/2012,Credit card,,Other,Branch,Closed with explanation,No,No,CR0161683,C00004090
+9/5/2012,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,Yes,CR0146975,C00000633
+8/30/2012,Bank account or service,Checking account,"Making/receiving payments, sending money",Phone Support,Closed with explanation,Yes,Yes,CR0144417,C00003864
+8/20/2012,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with monetary relief,Yes,No,CR0138644,C00002604
+8/17/2012,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with monetary relief,Yes,Yes,CR0138235,C00004432
+8/8/2012,Credit card,,Billing disputes,Branch,Closed with explanation,Yes,No,CR0132727,C00001116
+8/6/2012,Credit card,,Rewards,Mobile App,Closed with explanation,Yes,No,CR0130587,C00003769
+8/6/2012,Bank account or service,Checking account,Using a debit or ATM card,Email,Closed with monetary relief,Yes,No,CR0130233,C00005245
+7/20/2012,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,Yes,CR0121560,C00001909
+6/27/2012,Credit card,,Credit reporting,Mobile App,Closed with explanation,Yes,Yes,CR0108967,C00002452
+6/8/2012,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with non-monetary relief,Yes,Yes,CR0097731,C00004402
+6/5/2012,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with non-monetary relief,Yes,Yes,CR0094377,C00001679
+5/31/2012,Credit card,,Credit reporting,Branch,Closed with explanation,Yes,No,CR0090075,C00000078
+5/31/2012,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,No,Yes,CR0091084,C00001630
+5/30/2012,Credit card,,Billing disputes,Mobile App,Closed with monetary relief,No,Yes,CR0089542,C00011362
+4/11/2012,Bank account or service,Checking account,"Making/receiving payments, sending money",Branch,Closed with relief,Yes,Yes,CR0054494,C00003989
+4/11/2012,Bank account or service,Savings account,"Account opening, closing, or management",Mobile App,Closed with relief,Yes,No,CR0044568,C00011093
+3/26/2012,Credit card,,Billing disputes,Branch,Closed with relief,Yes,Yes,CR0027693,C00002160
+3/13/2012,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with relief,Yes,No,CR0034610,C00001905
+2/6/2012,Credit card,,Credit reporting,Mobile App,Closed without relief,Yes,Yes,CR0013527,C00004239
+1/18/2012,Credit card,,Overlimit fee,Branch,Closed with relief,Yes,No,CR0014704,C00003656
+4/5/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,,CR2421250,C00004012
+3/28/2017,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,In progress,Yes,,CR2406895,C00002321
+3/28/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,In progress,Yes,,CR2407613,C00003409
+3/27/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,,CR2406312,C00000569
+3/24/2017,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,In progress,Yes,,CR2403665,C00000759
+3/23/2017,Credit card,,Other,Branch,Closed with explanation,Yes,,CR2401648,C00000492
+3/22/2017,Credit card,,Other,Branch,Closed with explanation,Yes,,CR2398513,C00000445
+3/22/2017,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Phone Support,In progress,Yes,,CR2399597,C00000873
+3/22/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,In progress,Yes,,CR2398557,C00008333
+3/21/2017,Credit card,,Billing disputes,Branch,In progress,Yes,,CR2397904,C00000672
+3/21/2017,Bank account or service,Checking account,Problems caused by my funds being low,Branch,In progress,Yes,,CR2397006,C00004236
+3/20/2017,Credit card,,Other,Email,In progress,Yes,,CR2394492,C00012383
+3/20/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,,CR2394945,C00003039
+3/15/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with monetary relief,Yes,,CR2388201,C00009930
+3/14/2017,Credit card,,Other,Branch,Closed with explanation,Yes,,CR2387263,C00004233
+3/13/2017,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Email,Closed with explanation,Yes,,CR2384632,C00005606
+3/10/2017,Bank account or service,Checking account,Using a debit or ATM card,Branch,Closed with monetary relief,Yes,,CR2381178,C00002656
+3/9/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,In progress,Yes,,CR2379569,C00005321
+3/8/2017,Credit card,,Closing/Cancelling account,Email,In progress,Yes,,CR2378467,C00013201
+3/8/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,,CR2378054,C00003127
+3/2/2017,Bank account or service,Other bank product/service,Problems caused by my funds being low,Phone Support,Closed with monetary relief,Yes,,CR2368744,C00001998
+2/27/2017,Bank account or service,Savings account,"Account opening, closing, or management",Email,Closed with monetary relief,Yes,,CR2362994,C00002171
+2/17/2017,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with explanation,Yes,,CR2349389,C00004468
+2/17/2017,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,,CR2350802,C00002180
+2/16/2017,Bank account or service,Savings account,"Account opening, closing, or management",Email,Closed with explanation,Yes,,CR2348744,C00000751
+2/14/2017,Credit card,,Identity theft / Fraud / Embezzlement,Email,Closed with explanation,Yes,,CR2344749,C00000881
+2/14/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,In progress,Yes,,CR2344048,C00002156
+2/9/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,,CR2336216,C00004288
+2/8/2017,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with explanation,Yes,,CR2335191,C00002387
+2/8/2017,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,,CR2333445,C00000378
+2/7/2017,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Email,Closed with monetary relief,Yes,,CR2331971,C00000622
+2/7/2017,Bank account or service,Other bank product/service,Deposits and withdrawals,Email,In progress,Yes,,CR2331412,C00005579
+2/3/2017,Credit card,,Billing disputes,Email,Closed with monetary relief,Yes,,CR2326406,C00003077
+2/2/2017,Credit card,,Payoff process,Branch,Closed with explanation,Yes,,CR2322711,C00003059
+2/1/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,,CR2323490,C00001038
+1/31/2017,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,,CR2319723,C00002593
+1/31/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,,CR2319809,C00004223
+1/26/2017,Bank account or service,Other bank product/service,Deposits and withdrawals,Email,Closed with explanation,Yes,,CR2313440,C00002061
+1/25/2017,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,,CR2311310,C00000491
+1/25/2017,Credit card,,Closing/Cancelling account,Mobile App,Closed with explanation,Yes,,CR2310424,C00002794
+1/25/2017,Credit card,,Transaction issue,Branch,Closed with explanation,Yes,No,CR2311024,C00001567
+1/19/2017,Credit card,,Closing/Cancelling account,Phone Support,Closed with non-monetary relief,Yes,No,CR2298405,C00002013
+1/19/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR2295998,C00000987
+1/18/2017,Credit card,,Closing/Cancelling account,Mobile App,Closed with explanation,Yes,Yes,CR2293843,C00001333
+1/17/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2291907,C00003280
+1/10/2017,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with monetary relief,Yes,No,CR2283829,C00003284
+1/9/2017,Bank account or service,Checking account,Using a debit or ATM card,Email,Closed with explanation,Yes,No,CR2280052,C00001632
+1/6/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed,Yes,No,CR2277705,C00004459
+1/4/2017,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2275295,C00003927
+1/3/2017,Credit card,,Customer service / Customer relations,Phone Support,Closed with explanation,Yes,No,CR2272079,C00002344
+1/3/2017,Bank account or service,Other bank product/service,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,No,CR2271991,C00001717
+12/28/2016,Credit card,,Billing disputes,Mobile App,Closed with explanation,Yes,Yes,CR2267015,C00003283
+12/22/2016,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with explanation,Yes,No,CR2261646,C00011978
+12/21/2016,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR2258943,C00004758
+12/21/2016,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with monetary relief,Yes,No,CR2259376,C00004307
+12/20/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR2258552,C00004257
+12/14/2016,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR2249569,C00005642
+12/14/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR2250123,C00000865
+12/7/2016,Credit card,,Closing/Cancelling account,Mobile App,Closed with explanation,Yes,No,CR2239685,C00004125
+12/6/2016,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with explanation,Yes,Yes,CR2238023,C00004259
+12/5/2016,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with explanation,Yes,No,CR2236702,C00001188
+12/5/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with non-monetary relief,Yes,No,CR2235451,C00001955
+11/30/2016,Credit card,,Billing disputes,Phone Support,Closed with monetary relief,Yes,No,CR2228854,C00001431
+11/30/2016,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with monetary relief,Yes,No,CR2230146,C00002069
+11/28/2016,Credit card,,Payoff process,Email,Closed with non-monetary relief,Yes,No,CR2226204,C00001106
+11/25/2016,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with explanation,Yes,No,CR2223424,C00004687
+11/23/2016,Credit card,,Other,Branch,Closed with monetary relief,Yes,No,CR2221342,C00000866
+11/23/2016,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with monetary relief,Yes,No,CR2222679,C00001242
+11/23/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with monetary relief,Yes,No,CR2222223,C00003045
+11/22/2016,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR2220251,C00004221
+11/21/2016,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR2218454,C00003463
+11/17/2016,Credit card,,Credit determination,Phone Support,Closed with explanation,Yes,No,CR2214180,C00003150
+11/16/2016,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with monetary relief,Yes,No,CR2212245,C00000729
+11/16/2016,Bank account or service,Checking account,"Making/receiving payments, sending money",Phone Support,Closed with monetary relief,Yes,No,CR2212620,C00012416
+11/15/2016,Credit card,,Identity theft / Fraud / Embezzlement,Email,Closed with explanation,Yes,No,CR2209088,C00003085
+11/15/2016,Credit card,,Other,Branch,Closed with explanation,Yes,Yes,CR2209979,C00001771
+11/8/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR2199697,C00000314
+11/3/2016,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR2193859,C00004014
+11/1/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2189595,C00003183
+10/31/2016,Credit card,,Late fee,Phone Support,Closed with explanation,Yes,No,CR2187824,C00003124
+10/28/2016,Credit card,,Other,Branch,Closed with non-monetary relief,Yes,No,CR2184797,C00003736
+10/27/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2182212,C00001954
+10/26/2016,Credit card,,Other,Email,Closed with monetary relief,Yes,No,CR2179090,C00002447
+10/26/2016,Bank account or service,Other bank product/service,Problems caused by my funds being low,Email,Closed with explanation,Yes,No,CR2181276,C00000773
+10/21/2016,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,No,CR2172937,C00009427
+10/20/2016,Credit card,,Closing/Cancelling account,Branch,Closed with explanation,Yes,Yes,CR2172002,C00006042
+10/20/2016,Credit card,,Billing statement,Phone Support,Closed with explanation,Yes,No,CR2173059,C00005213
+10/18/2016,Credit card,,Advertising and marketing,Mobile App,Closed with explanation,Yes,Yes,CR2166955,C00004494
+10/18/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2165760,C00000992
+10/13/2016,Credit card,,Identity theft / Fraud / Embezzlement,Email,Closed with monetary relief,Yes,No,CR2159818,C00003350
+10/12/2016,Bank account or service,Checking account,"Making/receiving payments, sending money",Branch,Closed with explanation,Yes,No,CR2157111,C00001686
+10/11/2016,Credit card,,Credit line increase/decrease,Phone Support,Closed with explanation,Yes,Yes,CR2155262,C00002507
+10/7/2016,Credit card,,Credit card protection / Debt protection,Branch,Closed with explanation,Yes,Yes,CR2151317,C00001620
+10/6/2016,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with explanation,Yes,No,CR2149200,C00011804
+10/6/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR2149853,C00012738
+9/28/2016,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with monetary relief,Yes,No,CR2136255,C00002871
+9/27/2016,Credit card,,Credit line increase/decrease,Phone Support,Closed with explanation,Yes,No,CR2135116,C00003215
+9/26/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR2131993,C00006363
+9/26/2016,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with monetary relief,Yes,No,CR2130710,C00000981
+9/26/2016,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR2131061,C00000329
+9/21/2016,Credit card,,Delinquent account,Email,Closed with explanation,Yes,No,CR2124247,C00003466
+9/21/2016,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,Yes,CR2123785,C00004021
+9/21/2016,Credit card,,Other,Email,Closed with explanation,Yes,No,CR2123996,C00001728
+9/21/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with monetary relief,Yes,No,CR2123924,C00002150
+9/21/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR2124296,C00003511
+9/21/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR2124324,C00000308
+9/20/2016,Credit card,,Closing/Cancelling account,Branch,Closed with explanation,Yes,No,CR2120430,C00000829
+9/19/2016,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with monetary relief,Yes,No,CR2119879,C00000121
+9/19/2016,Credit card,,Late fee,Email,Closed with explanation,Yes,No,CR2118493,C00001119
+9/19/2016,Credit card,,APR or interest rate,Phone Support,Closed with explanation,Yes,No,CR2119080,C00004115
+9/19/2016,Bank account or service,Savings account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2118524,C00003701
+9/19/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR2119922,C00004273
+9/15/2016,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with non-monetary relief,Yes,No,CR2114448,C00004994
+9/14/2016,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Phone Support,Closed with explanation,Yes,No,CR2111298,C00000948
+9/14/2016,Bank account or service,Checking account,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,No,CR2111636,C00004488
+9/14/2016,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with monetary relief,Yes,No,CR2112926,C00002732
+9/13/2016,Credit card,,Closing/Cancelling account,Branch,Closed with monetary relief,Yes,No,CR2110710,C00002652
+9/13/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2109011,C00000048
+9/12/2016,Credit card,,Other,Email,Closed with explanation,Yes,No,CR2106806,C00002205
+9/12/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR2106553,C00004886
+9/12/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR2107839,C00003274
+9/9/2016,Credit card,,Unsolicited issuance of credit card,Phone Support,Closed with explanation,Yes,No,CR2104830,C00003436
+9/9/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,No,CR2102776,C00004225
+9/9/2016,Bank account or service,Savings account,Deposits and withdrawals,Mobile App,Closed with monetary relief,Yes,No,CR2104114,C00004388
+9/7/2016,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,Yes,CR2100334,C00002207
+8/31/2016,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR2089964,C00003703
+8/31/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR2090579,C00001089
+8/26/2016,Credit card,,Rewards,Branch,Closed with explanation,Yes,No,CR2083973,C00001542
+8/24/2016,Credit card,,Closing/Cancelling account,Branch,Closed with explanation,Yes,No,CR2079025,C00001530
+8/24/2016,Credit card,,Closing/Cancelling account,Mobile App,Closed with explanation,Yes,No,CR2078889,C00002058
+8/24/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR2080151,C00003850
+8/17/2016,Credit card,,Billing disputes,Branch,Closed with explanation,Yes,No,CR2068994,C00000876
+8/17/2016,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,Yes,CR2067841,C00004417
+8/16/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with monetary relief,Yes,No,CR2065657,C00001554
+8/12/2016,Bank account or service,Savings account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2059861,C00003762
+8/12/2016,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR2058582,C00004524
+8/12/2016,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR2061433,C00000723
+8/12/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with monetary relief,Yes,No,CR2061914,C00000237
+8/10/2016,Bank account or service,Checking account,"Making/receiving payments, sending money",Phone Support,Closed with explanation,Yes,No,CR2055729,C00000478
+8/9/2016,Credit card,,Closing/Cancelling account,Branch,Closed with monetary relief,Yes,No,CR2053433,C00000015
+8/4/2016,Credit card,,Closing/Cancelling account,Email,Closed with non-monetary relief,Yes,No,CR2047529,C00004706
+8/4/2016,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR2047441,C00011943
+8/2/2016,Credit card,,Other,Branch,Closed with explanation,Yes,No,CR2042159,C00001824
+8/2/2016,Bank account or service,Other bank product/service,Using a debit or ATM card,Branch,Closed with monetary relief,Yes,No,CR2042383,C00004820
+7/28/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Email,Closed with monetary relief,Yes,No,CR2035955,C00000911
+7/27/2016,Credit card,,Identity theft / Fraud / Embezzlement,Email,Closed with monetary relief,Yes,No,CR2032168,C00003210
+7/27/2016,Credit card,,Billing disputes,Phone Support,Closed with monetary relief,Yes,No,CR2032442,C00005200
+7/26/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR2029764,C00000703
+7/21/2016,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,No,CR2024387,C00003802
+7/13/2016,Credit card,,Credit determination,Mobile App,Closed with explanation,Yes,No,CR2011299,C00003514
+7/13/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR2011177,C00007796
+7/12/2016,Credit card,,Other,Phone Support,Closed with explanation,Yes,No,CR2009490,C00009505
+7/12/2016,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR2008113,C00000393
+7/8/2016,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR2004264,C00001846
+7/6/2016,Credit card,,Identity theft / Fraud / Embezzlement,Email,Closed with explanation,Yes,No,CR2001165,C00003455
+6/29/2016,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,Yes,CR1990253,C00002295
+6/28/2016,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1988571,C00000469
+6/27/2016,Credit card,,Billing disputes,Mobile App,Closed with explanation,Yes,No,CR1986130,C00000257
+6/27/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR1986094,C00003917
+6/22/2016,Credit card,,Payoff process,Branch,Closed with explanation,Yes,No,CR1979353,C00003098
+6/17/2016,Credit card,,Identity theft / Fraud / Embezzlement,Email,Closed with explanation,Yes,Yes,CR1974115,C00002169
+6/14/2016,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR1968121,C00004305
+6/14/2016,Bank account or service,Savings account,Deposits and withdrawals,Email,Closed with explanation,Yes,Yes,CR1967343,C00003479
+6/14/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1968804,C00000548
+6/8/2016,Credit card,,Late fee,Email,Closed with monetary relief,Yes,No,CR1959194,C00004592
+6/7/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with non-monetary relief,Yes,No,CR1957744,C00004230
+6/1/2016,Credit card,,Rewards,Mobile App,Closed with explanation,Yes,No,CR1949866,C00000863
+6/1/2016,Credit card,,Rewards,Branch,Closed with explanation,Yes,No,CR1949659,C00004919
+5/25/2016,Credit card,,Identity theft / Fraud / Embezzlement,Phone Support,Closed with explanation,Yes,No,CR1941546,C00002042
+5/25/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1942110,C00002677
+5/25/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1941376,C00002709
+5/25/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1940659,C00001619
+5/24/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1940052,C00000856
+5/23/2016,Credit card,,Credit line increase/decrease,Branch,Closed with explanation,Yes,No,CR1937602,C00004630
+5/18/2016,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR1930395,C00008333
+5/11/2016,Credit card,,Other fee,Phone Support,Closed with explanation,Yes,No,CR1919514,C00004728
+5/11/2016,Credit card,,Credit line increase/decrease,Email,Closed with monetary relief,Yes,No,CR1919645,C00003548
+5/11/2016,Credit card,,Credit line increase/decrease,Branch,Closed with monetary relief,Yes,No,CR1919975,C00006946
+5/10/2016,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Phone Support,Closed with non-monetary relief,Yes,No,CR1917514,C00003983
+5/9/2016,Credit card,,Credit determination,Mobile App,Closed with explanation,Yes,No,CR1916042,C00000616
+5/5/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,Yes,CR1912592,C00005334
+5/4/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR1909608,C00003958
+5/4/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,Yes,CR1910899,C00005775
+5/4/2016,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Branch,Closed with explanation,Yes,No,CR1910227,C00000107
+5/3/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR1907400,C00006112
+4/28/2016,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,No,CR1900945,C00002845
+4/27/2016,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with explanation,Yes,No,CR1899878,C00002645
+4/26/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1898039,C00003629
+4/22/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Email,Closed with monetary relief,Yes,No,CR1892105,C00001461
+4/21/2016,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with monetary relief,Yes,No,CR1891272,C00000784
+4/13/2016,Credit card,,Delinquent account,Branch,Closed with non-monetary relief,Yes,No,CR1877516,C00002270
+4/13/2016,Credit card,,Other fee,Email,Closed with monetary relief,Yes,No,CR1878237,C00000061
+4/12/2016,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR1875589,C00002391
+4/12/2016,Credit card,,Other,Email,Closed with explanation,Yes,No,CR1875991,C00000793
+4/12/2016,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR1875796,C00000958
+4/11/2016,Credit card,,Billing disputes,Mobile App,Closed with explanation,Yes,Yes,CR1874694,C00000952
+4/11/2016,Credit card,,Billing disputes,Branch,Closed with explanation,Yes,No,CR1874408,C00006275
+4/11/2016,Credit card,,Billing disputes,Email,Closed with explanation,Yes,No,CR1873543,C00001086
+4/11/2016,Credit card,,Delinquent account,Mobile App,Closed with monetary relief,Yes,No,CR1874223,C00009505
+4/11/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1874363,C00000618
+4/8/2016,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR1870285,C00001153
+4/4/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with non-monetary relief,Yes,Yes,CR1863672,C00002301
+4/1/2016,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR1860467,C00006750
+3/30/2016,Credit card,,Closing/Cancelling account,Email,Closed with explanation,Yes,No,CR1856319,C00003131
+3/29/2016,Credit card,,Late fee,Mobile App,Closed with monetary relief,Yes,No,CR1854125,C00000959
+3/25/2016,Bank account or service,Checking account,Problems caused by my funds being low,Email,Closed with explanation,Yes,No,CR1850371,C00004104
+3/24/2016,Bank account or service,Other bank product/service,Using a debit or ATM card,Email,Closed with explanation,Yes,No,CR1849018,C00004026
+3/22/2016,Credit card,,Other,Phone Support,Closed with explanation,Yes,No,CR1843712,C00002141
+3/18/2016,Credit card,,Credit line increase/decrease,Email,Closed with explanation,Yes,No,CR1839619,C00004432
+3/18/2016,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,No,CR1839721,C00001310
+3/16/2016,Credit card,,Other,Mobile App,Closed with explanation,Yes,No,CR1834278,C00004536
+3/16/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1835332,C00010479
+3/16/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1835930,C00000740
+3/15/2016,Credit card,,Billing disputes,Branch,Closed with monetary relief,Yes,Yes,CR1833581,C00000249
+3/14/2016,Credit card,,APR or interest rate,Email,Closed with explanation,Yes,No,CR1831653,C00003092
+3/11/2016,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR1828100,C00000513
+3/9/2016,Credit card,,Closing/Cancelling account,Email,Closed with non-monetary relief,Yes,No,CR1824920,C00000327
+3/9/2016,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1823750,C00002385
+3/8/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,Yes,CR1823106,C00000900
+3/7/2016,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with explanation,Yes,No,CR1819921,C00001112
+3/7/2016,Credit card,,Other,Phone Support,Closed with explanation,Yes,Yes,CR1820535,C00004460
+3/4/2016,Credit card,,Closing/Cancelling account,Mobile App,Closed with explanation,Yes,No,CR1816814,C00001943
+3/4/2016,Credit card,,Credit determination,Phone Support,Closed with explanation,Yes,No,CR1818167,C00011131
+3/2/2016,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with monetary relief,Yes,No,CR1813349,C00001070
+2/29/2016,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR1809005,C00002694
+2/25/2016,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1804301,C00003816
+2/24/2016,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,Yes,CR1802785,C00001886
+2/23/2016,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with explanation,Yes,No,CR1799864,C00002393
+2/22/2016,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with non-monetary relief,Yes,No,CR1797317,C00011754
+2/19/2016,Credit card,,Credit determination,Mobile App,Closed with explanation,Yes,No,CR1795747,C00006551
+2/18/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with non-monetary relief,Yes,Yes,CR1792706,C00003037
+2/16/2016,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR1790071,C00003543
+2/16/2016,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Branch,Closed with explanation,Yes,No,CR1788844,C00000626
+2/12/2016,Credit card,,Billing disputes,Email,Closed with explanation,Yes,Yes,CR1786858,C00006749
+2/9/2016,Bank account or service,Savings account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1780662,C00003436
+2/8/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with non-monetary relief,Yes,No,CR1777183,C00001706
+2/3/2016,Bank account or service,(CD) Certificate of deposit,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,No,CR1772134,C00003880
+2/2/2016,Credit card,,Billing disputes,Mobile App,Closed with explanation,Yes,No,CR1769933,C00001958
+2/2/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR1768779,C00004789
+2/1/2016,Credit card,,Transaction issue,Email,Closed with explanation,Yes,No,CR1766940,C00003598
+1/27/2016,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with explanation,Yes,No,CR1761571,C00001793
+1/26/2016,Bank account or service,Checking account,Using a debit or ATM card,Mobile App,Closed with explanation,Yes,No,CR1759470,C00003219
+1/26/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with non-monetary relief,Yes,No,CR1757625,C00000567
+1/25/2016,Credit card,,Transaction issue,Mobile App,Closed with explanation,Yes,No,CR1755925,C00013588
+1/21/2016,Credit card,,Transaction issue,Mobile App,Closed with monetary relief,Yes,No,CR1752002,C00003505
+1/21/2016,Credit card,,Other,Phone Support,Closed with non-monetary relief,Yes,No,CR1751734,C00001343
+1/21/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,Yes,CR1752931,C00002615
+1/21/2016,Bank account or service,Other bank product/service,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,No,CR1751316,C00004243
+1/20/2016,Credit card,,Delinquent account,Email,Closed with explanation,Yes,No,CR1750873,C00003682
+1/20/2016,Credit card,,Late fee,Email,Closed with monetary relief,Yes,No,CR1750681,C00003764
+1/20/2016,Credit card,,Other,Email,Closed with explanation,Yes,No,CR1750285,C00000060
+1/13/2016,Credit card,,Billing disputes,Email,Closed with explanation,Yes,No,CR1739982,C00004021
+1/13/2016,Credit card,,Other fee,Mobile App,Closed with monetary relief,Yes,No,CR1741597,C00003127
+1/13/2016,Credit card,,Other,Phone Support,Closed with explanation,Yes,No,CR1741538,C00003564
+1/12/2016,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with monetary relief,Yes,No,CR1739146,C00002734
+1/11/2016,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR1737466,C00006417
+1/4/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR1725940,C00013803
+1/4/2016,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with non-monetary relief,Yes,No,CR1725353,C00003931
+12/31/2015,Bank account or service,Checking account,Problems caused by my funds being low,Mobile App,Closed with explanation,Yes,No,CR1723447,C00001689
+12/30/2015,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with explanation,Yes,No,CR1722662,C00006175
+12/30/2015,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1722292,C00003287
+12/29/2015,Credit card,,Advertising and marketing,Branch,Closed with explanation,Yes,No,CR1721069,C00003536
+12/29/2015,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1720348,C00003522
+12/28/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with monetary relief,Yes,No,CR1718256,C00002573
+12/22/2015,Credit card,,Identity theft / Fraud / Embezzlement,Email,Closed with non-monetary relief,Yes,No,CR1712230,C00013448
+12/22/2015,Credit card,,Other,Mobile App,Closed with explanation,Yes,No,CR1712593,C00001491
+12/16/2015,Bank account or service,Savings account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,Yes,CR1706813,C00001354
+12/11/2015,Credit card,,APR or interest rate,Email,Closed with explanation,Yes,Yes,CR1693351,C00003873
+12/11/2015,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Email,Closed with explanation,Yes,No,CR1693184,C00002509
+12/11/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with monetary relief,Yes,No,CR1693185,C00001417
+12/2/2015,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1680495,C00001365
+11/30/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,Yes,CR1675811,C00002550
+11/24/2015,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with monetary relief,Yes,No,CR1670934,C00000032
+11/17/2015,Credit card,,Credit determination,Mobile App,Closed with explanation,Yes,No,CR1660050,C00003219
+11/17/2015,Credit card,,Other,Mobile App,Closed with explanation,Yes,No,CR1660335,C00004901
+11/17/2015,Credit card,,Unsolicited issuance of credit card,Mobile App,Closed with non-monetary relief,Yes,No,CR1658837,C00003570
+11/13/2015,Credit card,,Other,Phone Support,Closed with non-monetary relief,Yes,No,CR1653725,C00007863
+11/10/2015,Credit card,,Closing/Cancelling account,Email,Closed with explanation,Yes,No,CR1648334,C00003367
+11/9/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with non-monetary relief,Yes,Yes,CR1645965,C00003596
+11/4/2015,Credit card,,Billing disputes,Branch,Closed with explanation,Yes,No,CR1639357,C00002295
+11/4/2015,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Phone Support,Closed with explanation,Yes,No,CR1640566,C00002374
+10/30/2015,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with explanation,Yes,No,CR1633043,C00001820
+10/30/2015,Credit card,,Billing disputes,Email,Closed with monetary relief,Yes,No,CR1633056,C00002299
+10/29/2015,Credit card,,Delinquent account,Phone Support,Closed with non-monetary relief,Yes,No,CR1630524,C00006452
+10/29/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1630364,C00003140
+10/29/2015,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1630423,C00009611
+10/29/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1631397,C00002683
+10/28/2015,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with monetary relief,Yes,No,CR1629513,C00009880
+10/27/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1627236,C00001612
+10/20/2015,Credit card,,Unsolicited issuance of credit card,Email,Closed with explanation,Yes,No,CR1615332,C00011598
+10/19/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1612774,C00000550
+10/19/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Branch,Closed with monetary relief,Yes,No,CR1612696,C00007970
+10/15/2015,Credit card,,Closing/Cancelling account,Mobile App,Closed with explanation,Yes,No,CR1608784,C00004534
+10/15/2015,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR1609334,C00003307
+10/15/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1608859,C00001643
+10/7/2015,Credit card,,Rewards,Phone Support,Closed with explanation,Yes,Yes,CR1597893,C00011122
+10/2/2015,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,Yes,CR1590286,C00003605
+10/2/2015,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,Yes,CR1590106,C00004141
+9/30/2015,Credit card,,Closing/Cancelling account,Phone Support,Closed with explanation,Yes,No,CR1587313,C00004317
+9/29/2015,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,Yes,CR1584140,C00001013
+9/25/2015,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR1580992,C00003179
+9/25/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR1580111,C00000379
+9/24/2015,Credit card,,Closing/Cancelling account,Phone Support,Closed with non-monetary relief,Yes,No,CR1578014,C00008091
+9/23/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Email,Closed with explanation,Yes,Yes,CR1577468,C00003217
+9/21/2015,Credit card,,Late fee,Mobile App,Closed with explanation,Yes,No,CR1572142,C00004210
+9/18/2015,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR1571098,C00003835
+9/17/2015,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR1569460,C00002023
+9/16/2015,Bank account or service,Other bank product/service,Using a debit or ATM card,Phone Support,Closed with explanation,Yes,Yes,CR1567700,C00004726
+9/15/2015,Credit card,,Closing/Cancelling account,Mobile App,Closed with explanation,Yes,No,CR1565229,C00003668
+9/15/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1565363,C00003822
+9/9/2015,Credit card,,Credit line increase/decrease,Branch,Closed with explanation,Yes,Yes,CR1557863,C00003983
+9/8/2015,Credit card,,Identity theft / Fraud / Embezzlement,Email,Closed with explanation,Yes,No,CR1554953,C00002398
+9/8/2015,Credit card,,Credit determination,Mobile App,Closed with explanation,Yes,No,CR1555127,C00000530
+9/8/2015,Bank account or service,Checking account,Problems caused by my funds being low,Email,Closed with non-monetary relief,Yes,No,CR1554501,C00003346
+9/3/2015,Credit card,,Late fee,Mobile App,Closed with explanation,Yes,No,CR1550838,C00001448
+9/3/2015,Credit card,,Credit determination,Mobile App,Closed with non-monetary relief,Yes,No,CR1550513,C00001509
+9/3/2015,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with non-monetary relief,Yes,Yes,CR1550303,C00003953
+9/2/2015,Credit card,,Late fee,Email,Closed with monetary relief,Yes,No,CR1550372,C00001133
+9/1/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed,Yes,No,CR1547100,C00002034
+8/26/2015,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR1537464,C00001580
+8/26/2015,Credit card,,Credit line increase/decrease,Email,Closed with explanation,Yes,No,CR1538323,C00003494
+8/21/2015,Credit card,,Billing disputes,Mobile App,Closed with explanation,Yes,No,CR1529786,C00002231
+8/20/2015,Credit card,,Credit line increase/decrease,Mobile App,Closed with explanation,Yes,No,CR1528299,C00000543
+8/18/2015,Credit card,,Other,Mobile App,Closed with explanation,Yes,No,CR1523348,C00000418
+8/18/2015,Credit card,,Credit line increase/decrease,Mobile App,Closed with explanation,Yes,No,CR1524415,C00000154
+8/17/2015,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,Yes,CR1522846,C00006829
+8/13/2015,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,Yes,CR1516691,C00003538
+8/11/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR1512902,C00004708
+8/7/2015,Credit card,,Forbearance / Workout plans,Phone Support,Closed with explanation,Yes,No,CR1509215,C00001235
+8/7/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR1509134,C00000394
+8/6/2015,Bank account or service,Savings account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR1507355,C00000885
+8/3/2015,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,Yes,CR1500202,C00000557
+7/31/2015,Credit card,,Other,Email,Closed with explanation,Yes,No,CR1497595,C00012378
+7/31/2015,Credit card,,Credit line increase/decrease,Mobile App,Closed with non-monetary relief,Yes,No,CR1496383,C00001546
+7/31/2015,Credit card,,Other,Phone Support,Closed with non-monetary relief,Yes,No,CR1496382,C00000544
+7/31/2015,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with explanation,Yes,Yes,CR1497477,C00001546
+7/31/2015,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with monetary relief,Yes,No,CR1497460,C00004547
+7/31/2015,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR1496351,C00003647
+7/30/2015,Credit card,,Billing statement,Mobile App,Closed with monetary relief,Yes,No,CR1495257,C00003938
+7/28/2015,Credit card,,Closing/Cancelling account,Phone Support,Closed with explanation,Yes,No,CR1490998,C00005366
+7/23/2015,Credit card,,Billing disputes,Phone Support,Closed with explanation,Yes,No,CR1484289,C00002448
+7/23/2015,Credit card,,Customer service / Customer relations,Phone Support,Closed with explanation,Yes,No,CR1484603,C00001913
+7/23/2015,Credit card,,Closing/Cancelling account,Email,Closed with explanation,Yes,No,CR1484141,C00000316
+7/23/2015,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with monetary relief,Yes,No,CR1484298,C00000974
+7/23/2015,Bank account or service,Checking account,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,No,CR1484197,C00003111
+7/22/2015,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR1481105,C00004770
+7/22/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed,Yes,No,CR1481909,C00000337
+7/20/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Mobile App,Closed,Yes,No,CR1475200,C00001238
+7/16/2015,Bank account or service,Checking account,Deposits and withdrawals,Email,Closed with explanation,Yes,No,CR1471978,C00004411
+7/15/2015,Bank account or service,Savings account,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR1470323,C00002123
+7/15/2015,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,Yes,CR1470490,C00002556
+7/14/2015,Credit card,,Credit line increase/decrease,Mobile App,Closed with explanation,Yes,No,CR1468137,C00003230
+7/8/2015,Bank account or service,Checking account,Deposits and withdrawals,Branch,Closed with explanation,Yes,No,CR1458455,C00013694
+7/2/2015,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1448631,C00001523
+6/26/2015,Credit card,,Credit determination,Branch,Closed with explanation,Yes,Yes,CR1440090,C00000745
+6/26/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR1440934,C00000277
+6/23/2015,Credit card,,APR or interest rate,Mobile App,Closed with explanation,Yes,No,CR1434539,C00000430
+6/18/2015,Bank account or service,Savings account,Deposits and withdrawals,Branch,Closed with explanation,Yes,Yes,CR1428359,C00005283
+6/15/2015,Bank account or service,Checking account,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,No,CR1422293,C00003069
+6/12/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1418533,C00003550
+6/12/2015,Bank account or service,Checking account,Problems caused by my funds being low,Mobile App,Closed with explanation,Yes,No,CR1419754,C00003296
+6/12/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR1418766,C00002974
+6/10/2015,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with explanation,Yes,No,CR1414538,C00006731
+6/10/2015,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1414194,C00003782
+6/10/2015,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,Yes,CR1415743,C00002235
+6/10/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with monetary relief,Yes,Yes,CR1415128,C00002965
+6/3/2015,Credit card,,Billing disputes,Mobile App,Closed with explanation,Yes,No,CR1403361,C00002458
+5/29/2015,Bank account or service,Checking account,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,Yes,CR1397536,C00005563
+5/26/2015,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1390944,C00004083
+5/22/2015,Bank account or service,Checking account,"Account opening, closing, or management",Branch,Closed with non-monetary relief,Yes,No,CR1389361,C00005460
+5/21/2015,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,No,CR1386876,C00004479
+5/21/2015,Bank account or service,Checking account,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,No,CR1387408,C00006067
+5/20/2015,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",Mobile App,Closed with explanation,Yes,No,CR1385114,C00002198
+5/20/2015,Bank account or service,Checking account,Deposits and withdrawals,Mobile App,Closed with explanation,Yes,No,CR1384077,C00003892
+5/15/2015,Bank account or service,Checking account,"Account opening, closing, or management",Email,Closed with explanation,Yes,No,CR1377630,C00000417
+5/12/2015,Credit card,,APR or interest rate,Phone Support,Closed with monetary relief,Yes,No,CR1371826,C00003302
+5/5/2015,Credit card,,Other fee,Branch,Closed with monetary relief,Yes,No,CR1360875,C00001449
+4/30/2015,Credit card,,Other,Branch,Closed with explanation,Yes,Yes,CR1355330,C00000536
+4/29/2015,Credit card,,Application processing delay,Mobile App,Closed with explanation,Yes,No,CR1352279,C00004050
+4/28/2015,Credit card,,Customer service / Customer relations,Mobile App,Closed with explanation,Yes,No,CR1350626,C00004701
+4/28/2015,Credit card,,Closing/Cancelling account,Phone Support,Closed with explanation,Yes,No,CR1351216,C00004157
+4/28/2015,Credit card,,Identity theft / Fraud / Embezzlement,Mobile App,Closed with explanation,Yes,Yes,CR1350500,C00000383
+4/23/2015,Credit card,,Delinquent account,Email,Closed with explanation,Yes,Yes,CR1343326,C00002489
+4/23/2015,Credit card,,Identity theft / Fraud / Embezzlement,Branch,Closed with explanation,Yes,No,CR1343295,C00001390
+4/17/2015,Credit card,,Closing/Cancelling account,Phone Support,Closed with explanation,Yes,No,CR1335855,C00002929
+4/15/2015,Credit card,,Late fee,Branch,Closed with explanation,Yes,No,CR1331611,C00004662
+4/14/2015,Bank account or service,Checking account,"Account opening, closing, or management",Mobile App,Closed with explanation,Yes,No,CR1328481,C00001369
+4/10/2015,Credit card,,Rewards,Email,Closed with explanation,Yes,No,CR1324289,C00000690
+4/10/2015,Credit card,,Billing disputes,Email,Closed with monetary relief,Yes,Yes,CR1325033,C00003427
+4/8/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Phone Support,Closed with explanation,Yes,Yes,CR1321268,C00003648
+4/6/2015,Credit card,,Closing/Cancelling account,Branch,Closed with explanation,Yes,No,CR1316790,C00002408
+4/2/2015,Bank account or service,Checking account,Deposits and withdrawals,Phone Support,Closed with explanation,Yes,No,CR1313087,C00001826
+4/2/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",Branch,Closed with explanation,Yes,No,CR1313382,C00003186
